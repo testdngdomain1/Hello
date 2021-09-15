@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a remote tomcat server instance now</h2>
+<h2> Deploying on a remote host on tomcat container using Ansible</h2>
 
